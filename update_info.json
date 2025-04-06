@@ -1,4 +1,4 @@
-﻿{
+{
   "latest_version": "2.1",
   "changelog": [
     "🎨 Cập nhật giao diện trực quan hơn",
@@ -7,5 +7,5 @@
     "🛠️ Tuỳ chọn bật/tắt Always On Top(Alt+F7",
     "🛠️ Sửa lỗi nhỏ và cải thiện hiệu suất"
   ],
-  "download_url": "https://github.com/yourusername/yourrepo/releases/download/v2.1/NoticeVN_v2.1.exe"
+  "download_url": "https://github.com/yourusername/yourrepo/releases/download/v2.1/NotiVn.exe"
 }
